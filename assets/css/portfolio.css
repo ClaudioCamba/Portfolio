@@ -22,7 +22,7 @@ p, a:hover {
 	text-transform: uppercase;
 }
 .navbar-nav .nav-link, .navbar-nav .nav-link.active {
-	font-size: 1.5rem;
+	font-size: 1.25rem;
 }
 .navbar>a>i {
 	font-size: 2rem;
@@ -115,7 +115,7 @@ header .prof-img {
 	opacity: 0.5;
 }
 .card .card-footer a, form .btn {
-	font-weight: 700;
+	font-weight: 500;
 	letter-spacing: 1px;
 	color: #0a9bf5;
 	background-color: rgba(0, 0, 0, 0.0);
