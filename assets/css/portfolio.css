@@ -30,8 +30,8 @@ p, a:hover {
 .navbar, .card-footer, .form-control, .form-control:focus, footer {
 	background-color: #F8F9F9;
 }
-.navbar>a>i, .card {
-	transition: 0.3s;
+.navbar>a>i, .card, .btn, button, a, .img-fluid  {
+	transition: .3s;
 }
 .navbar-nav .nav-link, .navbar-nav .nav-link.active, #about, header .prof-img, .social .row, #contact>div, .social>.row>div {
 	padding: 0;
